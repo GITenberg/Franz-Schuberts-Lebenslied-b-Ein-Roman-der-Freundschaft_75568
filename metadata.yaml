@@ -1,0 +1,29 @@
+_repo: Franz-Schuberts-Lebenslied-b-Ein-Roman-der-Freundschaft_75568
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lux, Joseph Aug. (Joseph August)
+    alias: Lux, Joseph August
+    birthdate: 1871
+    deathdate: 1947
+    gutenberg_agent_id: '45760'
+    url: http://www.gutenberg.org/2009/agents/45760
+    wikipedia: https://de.wikipedia.org/wiki/Joseph_August_Lux
+description: ''
+gutenberg_issued: '2025-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75568'
+language: de
+pgterms:marc905: 20210912020814lux
+pgterms:marc906: '1915'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig :$bGrethlein & Co. G. m. b. H., $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Franz Schuberts Lebenslied : $b Ein Roman der Freundschaft'
+url: http://www.gutenberg.org/ebooks/75568
