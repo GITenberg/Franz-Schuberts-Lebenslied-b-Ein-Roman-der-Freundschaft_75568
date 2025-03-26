@@ -1,5 +1,8 @@
 _repo: Franz-Schuberts-Lebenslied-b-Ein-Roman-der-Freundschaft_75568
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75568-h/images/cover.jpg
 creator:
   author:
     agent_name: Lux, Joseph Aug. (Joseph August)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45760
     wikipedia: https://de.wikipedia.org/wiki/Joseph_August_Lux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75568#Franz-Schuberts-Lebenslied-b-Ein-Roman-der-Freundschaft
 gutenberg_issued: '2025-03-09'
 gutenberg_type: Text
 identifiers:
